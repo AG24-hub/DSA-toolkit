@@ -71,7 +71,6 @@ int main(){
     g.adj_list();
 
     cout<<"Adjacency matrix representation is: "<<endl;
-    g.adj_mat();
-
+    g.adj_mat(); 
     return 0;
 }
